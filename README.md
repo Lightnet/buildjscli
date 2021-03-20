@@ -3,6 +3,8 @@
 # Information:
   Learning how to set up cli.
 
+# Notes:
+ * Fixed url template.
 
 https://www.twilio.com/blog/how-to-build-a-cli-with-node-js
 https://nodejs.dev/learn/the-package-json-guide/
